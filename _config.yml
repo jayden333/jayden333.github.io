@@ -105,4 +105,4 @@ deploy:
   type: git
   repo: https://github.com/jayden333/jayden333.github.io
   branch: main
-  token: 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
+  token: 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
