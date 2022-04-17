@@ -103,7 +103,7 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://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@github.com/jayden333/jayden333.github.io/
+  repo: https://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@github.com/jayden333/jayden333.github.io/
   branch: gh-pages
   # token: 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
   # name: jayden333
